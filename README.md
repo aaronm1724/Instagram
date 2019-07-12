@@ -48,9 +48,9 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/93UmuKo8cu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/wcKC1HneLx.gif' title='Login/Signup Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src='http://g.recordit.co/93UmuKo8cu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/93UmuKo8cu.gif' title='Posting/Liking Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

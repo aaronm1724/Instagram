@@ -37,4 +37,25 @@
 
 }
 
+- (IBAction)didTapLike:(UIButton *)sender {
+    if (self.post.liked) {
+        self.post.liked = NO;
+        NSNumber *likeCountDecreased = [NSNumber numberWithInt:self.post.likeCount.intValue - 1];
+        self.post.likeCount = likeCountDecreased;
+        [self.likeButton setSelected:(NO)];
+    } else {
+        self.post.liked = YES;
+        NSNumber *likeCountIncreased = [NSNumber numberWithInt:self.post.likeCount.intValue + 1];
+        self.post.likeCount = likeCountIncreased;
+        [self.likeButton setSelected:(YES)];
+    }
+    self.numLikes.text = [self.post.likeCount stringValue];
+    [self.post saveInBackground];
+}
+
+- (IBAction)didTapComment:(UIButton *)sender {
+    
+}
+
+
 @end

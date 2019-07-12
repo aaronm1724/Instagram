@@ -36,17 +36,19 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+- added secure text entry to the password
+- added the username to each post
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. Working on commenting and liking (the way I implemented liking I believe will only work for one user, isn't valid for multiple users so if I had more time I'd like to discover how to make it work for multiple users)
+2. If I had more time, I'd also like to work on a profile page for each user and especially the bonus feature that described a centralized instagram with all users' posts and a feed for each individual user.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://recordit.co/jdooHk6uyn' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
